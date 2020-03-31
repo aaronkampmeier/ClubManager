@@ -1,0 +1,326 @@
+Choice		Action
+------		------
+A		Add Club
+C		Create ClubManagement
+D		Search by Club
+E		Search by Current President
+L		List Clubs
+N		Sort by Club Names
+O		Sort by Club Member Numbers
+P		Sort by Current Presidents
+Q		Quit
+R		Remove by Club
+T		Close ClubManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize ClubManagement to File
+X		Deserialize ClubManagement from File
+?		Display Help
+
+Please enter a maximum number of clubs
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+
+
+Club Name:		Swimming Club
+Number Of Members:	87
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+Club Name:		Hiking Club
+Number Of Members:	45
+University:		University of Arizona
+President:		Walker,Meg(Graduate)
+
+
+Club Name:		Jazz Club
+Number Of Members:	43
+University:		University of Washington
+President:		Smith,Ryan(Junior)
+
+
+Club Name:		Singing Club
+Number Of Members:	41
+University:		Arizona State University
+President:		Music,Sophie(Junior)
+
+
+Club Name:		Dancing Club
+Number Of Members:	56
+University:		Colorado State University
+President:		Steps,Sharon(Senior)
+
+
+What action would you like to perform?
+sorted by current presidents
+What action would you like to perform?
+
+
+Club Name:		Singing Club
+Number Of Members:	41
+University:		Arizona State University
+President:		Music,Sophie(Junior)
+
+
+Club Name:		Jazz Club
+Number Of Members:	43
+University:		University of Washington
+President:		Smith,Ryan(Junior)
+
+
+Club Name:		Dancing Club
+Number Of Members:	56
+University:		Colorado State University
+President:		Steps,Sharon(Senior)
+
+
+Club Name:		Hiking Club
+Number Of Members:	45
+University:		University of Arizona
+President:		Walker,Meg(Graduate)
+
+
+Club Name:		Swimming Club
+Number Of Members:	87
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+What action would you like to perform?
+sorted by numbers of members
+What action would you like to perform?
+
+
+Club Name:		Singing Club
+Number Of Members:	41
+University:		Arizona State University
+President:		Music,Sophie(Junior)
+
+
+Club Name:		Jazz Club
+Number Of Members:	43
+University:		University of Washington
+President:		Smith,Ryan(Junior)
+
+
+Club Name:		Hiking Club
+Number Of Members:	45
+University:		University of Arizona
+President:		Walker,Meg(Graduate)
+
+
+Club Name:		Dancing Club
+Number Of Members:	56
+University:		Colorado State University
+President:		Steps,Sharon(Senior)
+
+
+Club Name:		Swimming Club
+Number Of Members:	87
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+What action would you like to perform?
+sorted by club names
+What action would you like to perform?
+
+
+Club Name:		Dancing Club
+Number Of Members:	56
+University:		Colorado State University
+President:		Steps,Sharon(Senior)
+
+
+Club Name:		Hiking Club
+Number Of Members:	45
+University:		University of Arizona
+President:		Walker,Meg(Graduate)
+
+
+Club Name:		Jazz Club
+Number Of Members:	43
+University:		University of Washington
+President:		Smith,Ryan(Junior)
+
+
+Club Name:		Singing Club
+Number Of Members:	41
+University:		Arizona State University
+President:		Music,Sophie(Junior)
+
+
+Club Name:		Swimming Club
+Number Of Members:	87
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+What action would you like to perform?
+Please enter club name to remove:
+Please enter club university to remove:
+Club: Hiking Club at University of Arizona removed
+What action would you like to perform?
+Please enter club name to remove:
+Please enter club university to remove:
+Club: Dancing Club at University of Colorado not removed
+What action would you like to perform?
+
+
+Club Name:		Dancing Club
+Number Of Members:	56
+University:		Colorado State University
+President:		Steps,Sharon(Senior)
+
+
+Club Name:		Jazz Club
+Number Of Members:	43
+University:		University of Washington
+President:		Smith,Ryan(Junior)
+
+
+Club Name:		Singing Club
+Number Of Members:	41
+University:		Arizona State University
+President:		Music,Sophie(Junior)
+
+
+Club Name:		Swimming Club
+Number Of Members:	87
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+What action would you like to perform?
+sorted by current presidents
+What action would you like to perform?
+
+
+Club Name:		Singing Club
+Number Of Members:	41
+University:		Arizona State University
+President:		Music,Sophie(Junior)
+
+
+Club Name:		Jazz Club
+Number Of Members:	43
+University:		University of Washington
+President:		Smith,Ryan(Junior)
+
+
+Club Name:		Dancing Club
+Number Of Members:	56
+University:		Colorado State University
+President:		Steps,Sharon(Senior)
+
+
+Club Name:		Swimming Club
+Number Of Members:	87
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+What action would you like to perform?
+sorted by club names
+What action would you like to perform?
+
+
+Club Name:		Dancing Club
+Number Of Members:	56
+University:		Colorado State University
+President:		Steps,Sharon(Senior)
+
+
+Club Name:		Jazz Club
+Number Of Members:	43
+University:		University of Washington
+President:		Smith,Ryan(Junior)
+
+
+Club Name:		Singing Club
+Number Of Members:	41
+University:		Arizona State University
+President:		Music,Sophie(Junior)
+
+
+Club Name:		Swimming Club
+Number Of Members:	87
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+What action would you like to perform?
+sorted by numbers of members
+What action would you like to perform?
+
+
+Club Name:		Singing Club
+Number Of Members:	41
+University:		Arizona State University
+President:		Music,Sophie(Junior)
+
+
+Club Name:		Jazz Club
+Number Of Members:	43
+University:		University of Washington
+President:		Smith,Ryan(Junior)
+
+
+Club Name:		Dancing Club
+Number Of Members:	56
+University:		Colorado State University
+President:		Steps,Sharon(Senior)
+
+
+Club Name:		Swimming Club
+Number Of Members:	87
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+What action would you like to perform?

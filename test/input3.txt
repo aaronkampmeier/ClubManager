@@ -1,0 +1,74 @@
+10
+A
+Gaming Club
+15
+Arizona State University
+Alice
+Middle
+Senior
+A
+Space Club
+25
+University of Arizona
+Tom
+Jobs
+Junior
+A
+Math Club
+22
+University of Iowa
+Sam
+Riddle
+Freshman
+A
+Camping Club
+101
+North Carolina State University
+Chase
+Middle
+Sophomore
+L
+D
+Gaming Club
+North Carolina State University
+D
+Space Club
+University of Arizona
+E
+Tom
+Jobs
+Junior
+O
+L
+P
+L
+A
+Singing Club
+62
+University of Phoenix
+Sophie
+Walker
+Senior
+L
+D
+Math Club
+University of Idaho
+L
+D
+Space Club
+Georgia State University
+L
+D
+Math Club
+University of Iowa
+L
+U
+example1.txt
+Writing code in Java
+V
+example3.txt
+V
+example1.txt
+L
+Q
+

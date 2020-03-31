@@ -1,0 +1,54 @@
+5
+A
+Jazz Club
+65
+University of Washington
+Ryan
+Smith
+Graduate
+A
+Reading Club
+54
+Oregon State University
+Ann
+Reader
+Senior
+A
+Dancing Club
+71
+Colorado State University
+Sharon
+Steps
+Junior
+L
+C
+2
+L
+A
+Swimming Club
+34
+Arizona State University
+Bob
+Water
+Senior
+A
+Hiking Club
+52
+University of Indiana
+Steve
+Milky
+Junior
+A
+Writing Club
+13
+Oklahoma State University
+Liz
+Mills
+Graduate
+L
+P
+L
+O
+L
+Q
+

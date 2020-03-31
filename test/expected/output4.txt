@@ -1,0 +1,151 @@
+Choice		Action
+------		------
+A		Add Club
+C		Create ClubManagement
+D		Search by Club
+E		Search by Current President
+L		List Clubs
+N		Sort by Club Names
+O		Sort by Club Member Numbers
+P		Sort by Current Presidents
+Q		Quit
+R		Remove by Club
+T		Close ClubManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize ClubManagement to File
+X		Deserialize ClubManagement from File
+?		Display Help
+
+Please enter a maximum number of clubs
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+
+
+Club Name:		Jazz Club
+Number Of Members:	65
+University:		University of Washington
+President:		Smith,Ryan(Graduate)
+
+
+Club Name:		Reading Club
+Number Of Members:	54
+University:		Oregon State University
+President:		Reader,Ann(Senior)
+
+
+Club Name:		Dancing Club
+Number Of Members:	71
+University:		Colorado State University
+President:		Steps,Sharon(Junior)
+
+
+What action would you like to perform?
+Please enter a new maximum number of clubs:
+What action would you like to perform?
+
+no club
+
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club not added
+What action would you like to perform?
+
+
+Club Name:		Swimming Club
+Number Of Members:	34
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+Club Name:		Hiking Club
+Number Of Members:	52
+University:		University of Indiana
+President:		Milky,Steve(Junior)
+
+
+What action would you like to perform?
+sorted by current presidents
+What action would you like to perform?
+
+
+Club Name:		Hiking Club
+Number Of Members:	52
+University:		University of Indiana
+President:		Milky,Steve(Junior)
+
+
+Club Name:		Swimming Club
+Number Of Members:	34
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+What action would you like to perform?
+sorted by numbers of members
+What action would you like to perform?
+
+
+Club Name:		Swimming Club
+Number Of Members:	34
+University:		Arizona State University
+President:		Water,Bob(Senior)
+
+
+Club Name:		Hiking Club
+Number Of Members:	52
+University:		University of Indiana
+President:		Milky,Steve(Junior)
+
+
+What action would you like to perform?

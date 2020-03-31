@@ -1,0 +1,58 @@
+6
+A
+Swimming Club
+87
+Arizona State University
+Bob
+Water
+Senior
+A
+Hiking Club
+45
+University of Arizona
+Meg
+Walker
+Graduate
+A
+Jazz Club
+43
+University of Washington
+Ryan
+Smith
+Junior
+A
+Singing Club
+41
+Arizona State University
+Sophie
+Music
+Junior
+A
+Dancing Club
+56
+Colorado State University
+Sharon
+Steps
+Senior
+L
+P
+L
+O
+L
+N
+L
+R
+Hiking Club
+University of Arizona
+R
+Dancing Club
+University of Colorado
+L
+P
+L
+N
+L
+O
+L
+Q
+

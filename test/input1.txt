@@ -1,0 +1,60 @@
+8
+A
+Baseball Club
+54
+Northern Arizona University
+Jim
+Fields
+Senior
+A
+Tennis Club
+36
+University of Southern California
+Pete
+Tables
+Junior
+A
+Reading Club
+26
+Oregon State University
+Ann
+Reader
+Graduate
+L
+D
+Tennis Club
+University of Southern California
+D
+Reading Club
+University of Oregon
+D
+Basketball Club
+Northern Arizona University
+E
+Peter
+Tables
+Junior
+E
+Jim
+Fields
+Senior
+L
+R
+Baseball Club
+University of Oregon
+L
+R
+Baseball Club
+Northern Arizona University
+L
+W
+clubList1.dat
+T
+L
+X
+associationList2.dat
+X
+clubList1.dat
+L
+Q
+

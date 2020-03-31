@@ -1,0 +1,353 @@
+Choice		Action
+------		------
+A		Add Club
+C		Create ClubManagement
+D		Search by Club
+E		Search by Current President
+L		List Clubs
+N		Sort by Club Names
+O		Sort by Club Member Numbers
+P		Sort by Current Presidents
+Q		Quit
+R		Remove by Club
+T		Close ClubManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize ClubManagement to File
+X		Deserialize ClubManagement from File
+?		Display Help
+
+Please enter a maximum number of clubs
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+
+
+Club Name:		Gaming Club
+Number Of Members:	15
+University:		Arizona State University
+President:		Middle,Alice(Senior)
+
+
+Club Name:		Space Club
+Number Of Members:	25
+University:		University of Arizona
+President:		Jobs,Tom(Junior)
+
+
+Club Name:		Math Club
+Number Of Members:	22
+University:		University of Iowa
+President:		Riddle,Sam(Freshman)
+
+
+Club Name:		Camping Club
+Number Of Members:	101
+University:		North Carolina State University
+President:		Middle,Chase(Sophomore)
+
+
+What action would you like to perform?
+Please enter club name to search:
+Please enter club university to search:
+Club: Gaming Club at North Carolina State University not found
+What action would you like to perform?
+Please enter club name to search:
+Please enter club university to search:
+Club: Space Club at University of Arizona found
+What action would you like to perform?
+Please enter the first name of a club president to search:
+Please enter the last name of a club president to search:
+Please enter the academic level of a club president to search:
+President: Jobs,Tom(Junior) found
+What action would you like to perform?
+sorted by numbers of members
+What action would you like to perform?
+
+
+Club Name:		Gaming Club
+Number Of Members:	15
+University:		Arizona State University
+President:		Middle,Alice(Senior)
+
+
+Club Name:		Math Club
+Number Of Members:	22
+University:		University of Iowa
+President:		Riddle,Sam(Freshman)
+
+
+Club Name:		Space Club
+Number Of Members:	25
+University:		University of Arizona
+President:		Jobs,Tom(Junior)
+
+
+Club Name:		Camping Club
+Number Of Members:	101
+University:		North Carolina State University
+President:		Middle,Chase(Sophomore)
+
+
+What action would you like to perform?
+sorted by current presidents
+What action would you like to perform?
+
+
+Club Name:		Space Club
+Number Of Members:	25
+University:		University of Arizona
+President:		Jobs,Tom(Junior)
+
+
+Club Name:		Gaming Club
+Number Of Members:	15
+University:		Arizona State University
+President:		Middle,Alice(Senior)
+
+
+Club Name:		Camping Club
+Number Of Members:	101
+University:		North Carolina State University
+President:		Middle,Chase(Sophomore)
+
+
+Club Name:		Math Club
+Number Of Members:	22
+University:		University of Iowa
+President:		Riddle,Sam(Freshman)
+
+
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+
+
+Club Name:		Space Club
+Number Of Members:	25
+University:		University of Arizona
+President:		Jobs,Tom(Junior)
+
+
+Club Name:		Gaming Club
+Number Of Members:	15
+University:		Arizona State University
+President:		Middle,Alice(Senior)
+
+
+Club Name:		Camping Club
+Number Of Members:	101
+University:		North Carolina State University
+President:		Middle,Chase(Sophomore)
+
+
+Club Name:		Math Club
+Number Of Members:	22
+University:		University of Iowa
+President:		Riddle,Sam(Freshman)
+
+
+Club Name:		Singing Club
+Number Of Members:	62
+University:		University of Phoenix
+President:		Walker,Sophie(Senior)
+
+
+What action would you like to perform?
+Please enter club name to search:
+Please enter club university to search:
+Club: Math Club at University of Idaho not found
+What action would you like to perform?
+
+
+Club Name:		Space Club
+Number Of Members:	25
+University:		University of Arizona
+President:		Jobs,Tom(Junior)
+
+
+Club Name:		Gaming Club
+Number Of Members:	15
+University:		Arizona State University
+President:		Middle,Alice(Senior)
+
+
+Club Name:		Camping Club
+Number Of Members:	101
+University:		North Carolina State University
+President:		Middle,Chase(Sophomore)
+
+
+Club Name:		Math Club
+Number Of Members:	22
+University:		University of Iowa
+President:		Riddle,Sam(Freshman)
+
+
+Club Name:		Singing Club
+Number Of Members:	62
+University:		University of Phoenix
+President:		Walker,Sophie(Senior)
+
+
+What action would you like to perform?
+Please enter club name to search:
+Please enter club university to search:
+Club: Space Club at Georgia State University not found
+What action would you like to perform?
+
+
+Club Name:		Space Club
+Number Of Members:	25
+University:		University of Arizona
+President:		Jobs,Tom(Junior)
+
+
+Club Name:		Gaming Club
+Number Of Members:	15
+University:		Arizona State University
+President:		Middle,Alice(Senior)
+
+
+Club Name:		Camping Club
+Number Of Members:	101
+University:		North Carolina State University
+President:		Middle,Chase(Sophomore)
+
+
+Club Name:		Math Club
+Number Of Members:	22
+University:		University of Iowa
+President:		Riddle,Sam(Freshman)
+
+
+Club Name:		Singing Club
+Number Of Members:	62
+University:		University of Phoenix
+President:		Walker,Sophie(Senior)
+
+
+What action would you like to perform?
+Please enter club name to search:
+Please enter club university to search:
+Club: Math Club at University of Iowa found
+What action would you like to perform?
+
+
+Club Name:		Space Club
+Number Of Members:	25
+University:		University of Arizona
+President:		Jobs,Tom(Junior)
+
+
+Club Name:		Gaming Club
+Number Of Members:	15
+University:		Arizona State University
+President:		Middle,Alice(Senior)
+
+
+Club Name:		Camping Club
+Number Of Members:	101
+University:		North Carolina State University
+President:		Middle,Chase(Sophomore)
+
+
+Club Name:		Math Club
+Number Of Members:	22
+University:		University of Iowa
+President:		Riddle,Sam(Freshman)
+
+
+Club Name:		Singing Club
+Number Of Members:	62
+University:		University of Phoenix
+President:		Walker,Sophie(Senior)
+
+
+What action would you like to perform?
+Please enter a file name to write:
+Please enter a string to write in the file:
+example1.txt was written
+What action would you like to perform?
+Please enter a file name to read:
+example3.txt was not found
+What action would you like to perform?
+Please enter a file name to read:
+example1.txt was read
+The first line of the file is:
+Writing code in Java
+What action would you like to perform?
+
+
+Club Name:		Space Club
+Number Of Members:	25
+University:		University of Arizona
+President:		Jobs,Tom(Junior)
+
+
+Club Name:		Gaming Club
+Number Of Members:	15
+University:		Arizona State University
+President:		Middle,Alice(Senior)
+
+
+Club Name:		Camping Club
+Number Of Members:	101
+University:		North Carolina State University
+President:		Middle,Chase(Sophomore)
+
+
+Club Name:		Math Club
+Number Of Members:	22
+University:		University of Iowa
+President:		Riddle,Sam(Freshman)
+
+
+Club Name:		Singing Club
+Number Of Members:	62
+University:		University of Phoenix
+President:		Walker,Sophie(Senior)
+
+
+What action would you like to perform?

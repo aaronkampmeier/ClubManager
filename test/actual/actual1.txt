@@ -1,0 +1,186 @@
+Choice		Action
+------		------
+A		Add Club
+C		Create ClubManagement
+D		Search by Club
+E		Search by Current President
+L		List Clubs
+N		Sort by Club Names
+O		Sort by Club Member Numbers
+P		Sort by Current Presidents
+Q		Quit
+R		Remove by Club
+T		Close ClubManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize ClubManagement to File
+X		Deserialize ClubManagement from File
+?		Display Help
+
+Please enter a maximum number of clubs
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+Please enter the Club information:
+Enter its name:
+Enter its number of members:
+Enter its university:
+Enter its president first name:
+Enter its president last name:
+Enter its president academic level:
+club added
+What action would you like to perform?
+
+
+Club Name:		Baseball Club
+Number Of Members:	54
+University:		Northern Arizona University
+President:		Fields,Jim(Senior)
+
+
+Club Name:		Tennis Club
+Number Of Members:	36
+University:		University of Southern California
+President:		Tables,Pete(Junior)
+
+
+Club Name:		Reading Club
+Number Of Members:	26
+University:		Oregon State University
+President:		Reader,Ann(Graduate)
+
+
+What action would you like to perform?
+Please enter club name to search:
+Please enter club university to search:
+Club: Tennis Club at University of Southern California found
+What action would you like to perform?
+Please enter club name to search:
+Please enter club university to search:
+Club: Reading Club at University of Oregon not found
+What action would you like to perform?
+Please enter club name to search:
+Please enter club university to search:
+Club: Basketball Club at Northern Arizona University not found
+What action would you like to perform?
+Please enter the first name of a club president to search:
+Please enter the last name of a club president to search:
+Please enter the academic level of a club president to search:
+President: Tables,Peter(Junior) not found
+What action would you like to perform?
+Please enter the first name of a club president to search:
+Please enter the last name of a club president to search:
+Please enter the academic level of a club president to search:
+President: Fields,Jim(Senior) found
+What action would you like to perform?
+
+
+Club Name:		Baseball Club
+Number Of Members:	54
+University:		Northern Arizona University
+President:		Fields,Jim(Senior)
+
+
+Club Name:		Tennis Club
+Number Of Members:	36
+University:		University of Southern California
+President:		Tables,Pete(Junior)
+
+
+Club Name:		Reading Club
+Number Of Members:	26
+University:		Oregon State University
+President:		Reader,Ann(Graduate)
+
+
+What action would you like to perform?
+Please enter club name to remove:
+Please enter club university to remove:
+Club: Baseball Club at University of Oregon not removed
+What action would you like to perform?
+
+
+Club Name:		Baseball Club
+Number Of Members:	54
+University:		Northern Arizona University
+President:		Fields,Jim(Senior)
+
+
+Club Name:		Tennis Club
+Number Of Members:	36
+University:		University of Southern California
+President:		Tables,Pete(Junior)
+
+
+Club Name:		Reading Club
+Number Of Members:	26
+University:		Oregon State University
+President:		Reader,Ann(Graduate)
+
+
+What action would you like to perform?
+Please enter club name to remove:
+Please enter club university to remove:
+Club: Baseball Club at Northern Arizona University removed
+What action would you like to perform?
+
+
+Club Name:		Tennis Club
+Number Of Members:	36
+University:		University of Southern California
+President:		Tables,Pete(Junior)
+
+
+Club Name:		Reading Club
+Number Of Members:	26
+University:		Oregon State University
+President:		Reader,Ann(Graduate)
+
+
+What action would you like to perform?
+Please enter a file name to write:
+clubList1.dat was written
+What action would you like to perform?
+club management system closed
+What action would you like to perform?
+
+no club
+
+What action would you like to perform?
+Please enter a file name to read:
+associationList2.dat was not found
+What action would you like to perform?
+Please enter a file name to read:
+clubList1.dat was read
+What action would you like to perform?
+
+
+Club Name:		Tennis Club
+Number Of Members:	36
+University:		University of Southern California
+President:		Tables,Pete(Junior)
+
+
+Club Name:		Reading Club
+Number Of Members:	26
+University:		Oregon State University
+President:		Reader,Ann(Graduate)
+
+
+What action would you like to perform?
